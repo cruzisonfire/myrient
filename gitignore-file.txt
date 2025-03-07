@@ -1,0 +1,15 @@
+# Temporary files
+*~
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Ignore test downloads
+test_downloads/
+
+# Ignore package builds
+pkg/
+src/
+*.tar.gz
+*.tar.xz
